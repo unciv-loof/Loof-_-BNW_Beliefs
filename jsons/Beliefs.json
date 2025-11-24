@@ -1,0 +1,64 @@
+[
+
+///////////////////////////////////////// Pantheon beliefs //////////////////////////////////////////
+
+	{
+		"name": "Earth Mother",
+		"type": "Pantheon",
+		"uniques": [
+			"[+1 Faith] from every [Copper]",
+			"[+1 Faith] from every [Iron]",
+			"[+1 Faith] from every [Salt]"
+		]
+	},
+	{
+		"name": "God-King",
+		"type": "Pantheon",
+		"uniques": [
+			"[+1 Culture, +1 Faith, +1 Gold, +1 Production, +1 Science] from every [Palace]"
+		]
+	},
+	{
+		"name": "Religious Settlements",
+		"type": "Pantheon",
+		"uniques": ["[-13]% Culture cost of natural border growth [in cities following this religion]"]
+	},
+	{
+		"name": "Sun God",
+		"type": "Pantheon",
+		"uniques": [
+			"[+1 Food] from every [Bananas]",
+			"[+1 Food] from every [Citrus]",
+			"[+1 Food] from every [Wheat]"
+		]
+	},
+	{
+		"name": "Tears of the Gods",
+		"type": "Pantheon",
+		"uniques": [
+			"[+2 Faith] from every [Gems]",
+			"[+2 Faith] from every [Pearls]"
+		]
+	},
+	
+///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+	
+	{
+		"name": "Peace Loving",
+		"type": "Founder",
+		"uniques": ["[+1 Happiness] from every [8] global followers [in non-enemy foreign cities]"]
+	},
+	{
+		"name": "Pilgrimage",
+		"type": "Founder",
+		"uniques": ["[+2 Faith] for each global city following this religion <in [Foreign] cities>"]
+	},
+
+///////////////////////////////////////// Enhancer beliefs /////////////////////////////////////////
+
+	{
+		"name": "Religious Texts",
+		"type": "Enhancer",
+		"uniques": ["[+25]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+	}
+]
